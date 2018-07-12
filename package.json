@@ -1,0 +1,23 @@
+{
+  "name": "toggle-icons",
+  "productName": "Toggle Icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "execa": "0.10.0",
+    "menubar": "5.2.3"
+  },
+  "devDependencies": {
+    "electron": "2.0.4",
+    "electron-packager": "12.1.0",
+    "electron-reload": "1.2.5"
+  },
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-packager . --out releases --overwrite --files=[images/*] --icon=build/icon.icns"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT"
+}
