@@ -17,12 +17,10 @@
 
 ![demo](https://user-images.githubusercontent.com/1863771/42634092-ec2f1596-85ff-11e8-8afb-55991ed4b191.gif)
 
-
-Click to toggle
-
 &nbsp;
 
-Right click to quit
+- Click to toggle
+- Right click to quit
 
 &nbsp;
 
